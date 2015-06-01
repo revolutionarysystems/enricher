@@ -4,7 +4,7 @@
 	<groupId>uk.co.revsys.enricher</groupId>
 	<artifactId>enricher-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.2.0-SNAPSHOT</version>
 	<name>Enricher - Parent</name>
 	
     <modules>
